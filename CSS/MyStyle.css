@@ -1,0 +1,17 @@
+audio{
+    border:none;
+}
+p{
+    text-align:justify;
+    font-size:20px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 2px grey;
+    color: blue;
+}
+div{
+    display: flex;
+    flex-direction: column;
+}
